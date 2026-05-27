@@ -1,12 +1,12 @@
 //path sepreator 
 
 
-package main
+// package main
 
-import (
-    "fmt";
-	"path"
-)
+// import (
+//     "fmt";
+// 	"path"
+// )
 
 
 // func main(){
@@ -49,12 +49,12 @@ import (
 
 
 
-func main(){
-	var dir,file string
+// func main(){
+// 	var dir,file string
 
-	dir,file = path.Split("home/abc/golang/main.go")
+// 	dir,file = path.Split("home/abc/golang/main.go")
 
-	fmt.Println("dir :",dir)
-	fmt.Println("file :",file)
+// 	fmt.Println("dir :",dir)
+// 	fmt.Println("file :",file)
 
-}
+// }
